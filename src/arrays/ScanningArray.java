@@ -11,7 +11,6 @@ public class ScanningArray {
 
   public static void printNumbers(int number) {
 
-
     int[] myIntegers = getIntegers(number);
 
     for(int i=0; i<myIntegers.length; i++) {
